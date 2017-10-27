@@ -17,7 +17,7 @@ components:{headtop,foot}
 </script>
 
 <style>
-	 .content{ transition: 0.3s; position: fixed; width: 100%;
+	 .content{ transition: 0.3s; width: 100%;
    font-size:30px ;top:62px; bottom: 78px;}
   .animate-enter{transform:translate(100%,0);opacity: 0}
   .animate-leave-active{transform:translate(-100%,0);opacity: 0}
